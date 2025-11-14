@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\controllers\\ciudadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\controllers\\ciudadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\models\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\models\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\data\\oracledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\data\\oracledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\controllers\\accionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\controllers\\accionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\models\\accion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\models\\accion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\dtos\\departamentorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\dtos\\departamentorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\dtos\\departamentoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\dtos\\departamentoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\dtos\\ciudadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\dtos\\ciudadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\dtos\\usuariorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\dtos\\usuariorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\dtos\\usuarioresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\dtos\\usuarioresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\dtos\\ciudadresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\dtos\\ciudadresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|c:\\users\\camil\\documents\\crud_oracle_api\\crud_oracle_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75E06DD7-105B-4ADA-894C-C9AA03DC5E61}|CRUD_Oracle_API\\CRUD_Oracle_API.csproj|solutionrelative:crud_oracle_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\Controllers\\LogsController.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\Controllers\\LogsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:55:23.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Models\\Log.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\Models\\Log.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Models\\Log.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\Models\\Log.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:42:53.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartamentosController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Controllers\\DepartamentosController.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\Controllers\\DepartamentosController.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Controllers\\DepartamentosController.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\Controllers\\DepartamentosController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAkwKAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:50:41.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CiudadesController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Controllers\\CiudadesController.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\Controllers\\CiudadesController.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Controllers\\CiudadesController.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\Controllers\\CiudadesController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwIcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:50:46.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ciudad.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Models\\Ciudad.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\Models\\Ciudad.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Models\\Ciudad.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\Models\\Ciudad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:41:54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Controllers\\UsuariosController.cs*",
+              "RelativeToolTip": "CRUD_Oracle_API\\Controllers\\UsuariosController.cs*",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAswPAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:56:29.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Models\\Usuario.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:42:07.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccionesController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Controllers\\AccionesController.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\Controllers\\AccionesController.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Controllers\\AccionesController.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\Controllers\\AccionesController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:39:42.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Accion.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Models\\Accion.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\Models\\Accion.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Models\\Accion.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\Models\\Accion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:37:22.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\Program.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Program.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:42:28.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OracleDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Data\\OracleDbContext.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\Data\\OracleDbContext.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Data\\OracleDbContext.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\Data\\OracleDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:40:46.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\Models\\Departamento.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:41:32.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartamentoRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\DTOs\\DepartamentoRequestDto.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\DTOs\\DepartamentoRequestDto.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\DTOs\\DepartamentoRequestDto.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\DTOs\\DepartamentoRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:49:37.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartamentoResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\DTOs\\DepartamentoResponseDto.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\DTOs\\DepartamentoResponseDto.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\DTOs\\DepartamentoResponseDto.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\DTOs\\DepartamentoResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:50:09.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CiudadRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\DTOs\\CiudadRequestDto.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\DTOs\\CiudadRequestDto.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\DTOs\\CiudadRequestDto.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\DTOs\\CiudadRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:48:56.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\DTOs\\UsuarioRequestDto.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\DTOs\\UsuarioRequestDto.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\DTOs\\UsuarioRequestDto.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\DTOs\\UsuarioRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:55:22.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\DTOs\\UsuarioResponseDto.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\DTOs\\UsuarioResponseDto.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\DTOs\\UsuarioResponseDto.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\DTOs\\UsuarioResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:56:05.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\appsettings.json",
+              "RelativeToolTip": "CRUD_Oracle_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T20:38:30.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CiudadResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\DTOs\\CiudadResponseDto.cs",
+              "RelativeDocumentMoniker": "CRUD_Oracle_API\\DTOs\\CiudadResponseDto.cs",
+              "ToolTip": "C:\\Users\\camil\\Documents\\CRUD_Oracle_API\\CRUD_Oracle_API\\DTOs\\CiudadResponseDto.cs",
+              "RelativeToolTip": "CRUD_Oracle_API\\DTOs\\CiudadResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:51:20.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
